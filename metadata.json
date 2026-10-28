@@ -1,0 +1,6 @@
+{
+  "name": "Extractor de Fichas de Producto - Amazon México & Mercado Libre",
+  "description": "Herramienta especializada para extraer fichas de producto completas de Amazon México y Mercado Libre: descarga de imágenes seleccionadas, especificaciones técnicas organizadas, copiado rápido y exportación a PDF profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
